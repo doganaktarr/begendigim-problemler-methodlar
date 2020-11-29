@@ -1,6 +1,6 @@
 What is nested list?
 
-A nested list is a list that contains another list (i.e.: a list of lists). It is also referred to as a multi-diminsional array. For example, a 2 dimensional array is used below:
+A nested list is a list that contains another list. It is also referred to as a multi-diminsional array. For example, a 2 dimensional array is used below:
 ```python
 nested_list = [['blue', 'green'], ['red', 'black'], ['blue', 'white']]
 print len(nested_list)

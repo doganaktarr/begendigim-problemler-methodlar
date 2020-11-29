@@ -25,4 +25,5 @@ blue
 white
 ```
 [problem](https://www.hackerrank.com/challenges/nested-list/problem)
+[benim cozumum](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Basic%20Data%20Types/Nested%20Lists.py)
 
